@@ -4,6 +4,6 @@
 
  * SDE INTERN (FRONT-END DEVELOPER) :man_technologist:   CDAC MOHALI
  * STUDENT :man_student:  NIT KURUKSHETRA
- * JavaScript enthusiast :heavy_check_mark:
+ * JavaScript Enthusiast :heavy_check_mark:
 * currently working on MERN Stack
 * I love to learn new technologies
