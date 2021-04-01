@@ -2,7 +2,7 @@
 
 ## Little bit more about me...
 
- * SDE INTERN (FRONT-END DEVELOPER) :man_technologist:   CDAC MOHALI
+ * SDE INTERN :man_technologist:   CDAC MOHALI
  * STUDENT :man_student:  NIT KURUKSHETRA
  * JavaScript Enthusiast :heavy_check_mark:
 * currently working on MERN Stack
