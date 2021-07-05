@@ -2,7 +2,7 @@
 
 ## Little bit more about me...
 
- *personal website https://rajakishor.me/
+ PORTFOLIO WEBSITE https://rajakishor.me/
  *  SDE INTERN (FRONT-END DEVELOPER) :man_technologist:   CDAC MOHALI
  * STUDENT :man_student:  NIT KURUKSHETRA
  * JavaScript Enthusiast :heavy_check_mark:
